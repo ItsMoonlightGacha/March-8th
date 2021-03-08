@@ -1,0 +1,29 @@
+h1 {
+    font-size: 40px;
+    line-height: 1.2;
+    font-family: fantasy;
+    font-weight: 300;
+    text-align: center;
+    color: lightpink;
+}
+
+#Mom {
+    font-size: 40px;
+    line-height: 1.2;
+    font-family: 'roboto', cursive;
+}
+
+.profile {
+    width: 500px;
+    height: 400px;
+    margin-bottom: 50px;
+    border-radius: 10%;
+}
+
+p {
+    max-width: 450px;
+    margin: 45px auto;
+    font-size: 17px;
+    line-height: 1.3;
+    color: lightpink;
+}
